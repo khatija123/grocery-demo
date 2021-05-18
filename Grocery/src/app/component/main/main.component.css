@@ -1,0 +1,20 @@
+.div1 {
+
+    width: 220px;
+    height: 200px;
+    border: 3px limegreen solid;
+    padding: 10px;
+    display: inline-block;
+    
+    }
+    .h6{
+        text-align: center;
+        color: limegreen;
+        font-style: italic;
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
